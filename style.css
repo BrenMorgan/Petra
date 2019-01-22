@@ -38,7 +38,7 @@ h1 {
 .showcase {
   grid-row: showcase;
   min-height: 350px;
-  background: url(/img/petra.jpg);
+  background: url(~/img/petra.jpg);
   background-size: cover;
   background-position: center;
   padding: 3rem;
